@@ -121,9 +121,15 @@
   color: #f00;
 }
 
+.text {
+  padding-left: 6%;
+  padding-right: 6%;
+}
 
-
-
+.tournaments {
+  padding-left: 6%;
+  padding-right: 6%;
+}
 
 
 
@@ -137,12 +143,23 @@ section {
 
 .sub-heading {
   font-family: "Press Start 2P", sans-serif;
+  padding-top: 10px;
   padding-left: 10px;
   color: #000;
   text-align: center;
   text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
              1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
 }
+
+.sub-sub-heading {
+  font-family: "Roboto", sans-serif;
+  padding-left: 2px;
+  color: #000;
+  text-align: center;
+  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
+             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
+}
+
 
 .intro {
   padding: 10px;
@@ -211,4 +228,10 @@ section {
 
 .pad {
   padding-right: 6px;
+}
+
+.table {
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-bottom: 0;
 }
