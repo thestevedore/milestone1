@@ -1,18 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto:wght@100;300;400;500;700&display=swap');
 
-/*--Colours--*/
+/*--Heading--*/
 
 .background {
   background-color: #000;
 }
-
-
-
-/*--Additional paddins/margins--*/
-
-
-
-/*--Heading--*/
 
 #logo {
   font-family: "Press Start 2P", sans-serif;
@@ -41,6 +33,29 @@
 
 /*--Section--*/
 
+section {
+  background-color: cadetblue;
+}
+
+.sub-heading {
+  font-family: "Press Start 2P", sans-serif;
+  padding-top: 10px;
+  padding-left: 10px;
+  color: #000;
+  text-align: center;
+  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
+             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
+}
+
+.sub-sub-heading {
+  font-family: "Roboto", sans-serif;
+  padding-left: 2px;
+  color: #000;
+  text-align: center;
+  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
+             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
+}
+
 .textOnImg {
   position: absolute;
   width: 100%;
@@ -49,6 +64,14 @@
   color:darkgrey;
   text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
              1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+.intro {
+  padding: 10px;
+}
+
+.about {
+  padding: 10px;
 }
 
 .maintxt {
@@ -72,109 +95,6 @@
   padding-top: 20px;
   padding-bottom: 20px;
   background: #23464b;
-}
-
-.contact {
-  font-family: "Press Start 2P", sans-serif;
-  text-align: center;
-  padding: 15px 10px 15px 10px;
-  color:darkgrey;
-  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
-             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
-  background: #23464b;
-}
-
-
-.find {
-  font-family: "Press Start 2P", sans-serif;
-  text-align: center;
-  padding: 15px 10px 15px 10px;
-
-  color: #000;
-  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
-             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
-  background: cadetblue;
-}
-
-/*--Footer--*/
-
-#ending {
-  padding-bottom: 20px;
-  padding-top: 5px;
-  background: #23464b;
-}
-
-/*--Social Media--*/
-
-#twitter {
-  font-size: 1.7em;
-  color: #000;
-}
-
-#instagram {
-  font-size: 1.7em;
-  color: #f08;
-}
-
-#youtube {
-  font-size: 1.7em;
-  color: #f00;
-}
-
-.text {
-  padding-left: 6%;
-  padding-right: 6%;
-}
-
-.tournaments {
-  padding-left: 6%;
-  padding-right: 6%;
-}
-
-
-
-
-
-section {
-  background-color: cadetblue;
-}
-
-
-
-.sub-heading {
-  font-family: "Press Start 2P", sans-serif;
-  padding-top: 10px;
-  padding-left: 10px;
-  color: #000;
-  text-align: center;
-  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
-             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
-}
-
-.sub-sub-heading {
-  font-family: "Roboto", sans-serif;
-  padding-left: 2px;
-  color: #000;
-  text-align: center;
-  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
-             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
-}
-
-
-.intro {
-  padding: 10px;
-}
-
-.about {
-  padding: 10px;
-}
-
-
-.socials {
-  padding-top: 10px;
-  color:darkgrey;
-  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
-             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
 }
 
 .menu-list {
@@ -234,4 +154,67 @@ section {
   padding-left: 5%;
   padding-right: 5%;
   margin-bottom: 0;
+}
+
+.contact {
+  font-family: "Press Start 2P", sans-serif;
+  text-align: center;
+  padding: 15px 10px 15px 10px;
+  color:darkgrey;
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  background: #23464b;
+}
+
+.find {
+  font-family: "Press Start 2P", sans-serif;
+  text-align: center;
+  padding: 15px 10px 15px 10px;
+
+  color: #000;
+  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
+             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
+  background: cadetblue;
+}
+
+/*--Footer--*/
+
+#ending {
+  padding-bottom: 20px;
+  padding-top: 5px;
+  background: #23464b;
+}
+
+/*--Social Media--*/
+
+.socials {
+  padding-top: 10px;
+  color:darkgrey;
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+             1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+}
+
+#twitter {
+  font-size: 1.7em;
+  color: #000;
+}
+
+#instagram {
+  font-size: 1.7em;
+  color: #f08;
+}
+
+#youtube {
+  font-size: 1.7em;
+  color: #f00;
+}
+
+.text {
+  padding-left: 6%;
+  padding-right: 6%;
+}
+
+.tournaments {
+  padding-left: 6%;
+  padding-right: 6%;
 }
