@@ -103,7 +103,20 @@ section {
   color: #23464b;
 }
 
+.menu-list li {
+  padding-bottom: 15px;
+}
+
 .menu-heading {
+  font-family: "Press Start 2P", sans-serif;
+  padding-left: 10px;
+  font-weight: 500;
+  color: #000;
+  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
+             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
+}
+
+.events-heading {
   font-family: "Press Start 2P", sans-serif;
   padding-left: 10px;
   font-weight: 500;
@@ -118,13 +131,8 @@ section {
   color: #23464b;
 }
 
-.events-heading {
-  font-family: "Press Start 2P", sans-serif;
-  padding-left: 10px;
-  font-weight: 500;
-  color: #000;
-  text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
-             1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
+.events-list li {
+  padding-bottom: 15px;
 }
 
 .carousel {
