@@ -177,6 +177,21 @@ section {
   background: cadetblue;
 }
 
+.opening-times {
+  padding-top: 25px;
+}
+
+.text {
+  padding-left: 6%;
+  padding-right: 6%;
+  text-align: center;
+}
+
+.tournaments {
+  padding-left: 6%;
+  padding-right: 6%;
+}
+
 /*--Footer--*/
 
 #ending {
@@ -209,12 +224,3 @@ section {
   color: #f00;
 }
 
-.text {
-  padding-left: 6%;
-  padding-right: 6%;
-}
-
-.tournaments {
-  padding-left: 6%;
-  padding-right: 6%;
-}
