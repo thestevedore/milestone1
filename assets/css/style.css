@@ -74,6 +74,10 @@ section {
   padding: 10px;
 }
 
+.hours {
+  padding: 10px;
+}
+
 .maintxt {
   position: relative;
 }
@@ -97,6 +101,10 @@ section {
   background: #23464b;
 }
 
+.menu {
+  padding: 10px;
+}
+
 .menu-list {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -115,6 +123,11 @@ section {
   text-shadow: 2px 0 darkgrey, -2px 0 darkgrey, 0 2px darkgrey, 0 -2px darkgrey,
              1px 1px darkgrey, -1px -1px darkgrey, 1px -1px darkgrey, -1px 1px darkgrey;
 }
+
+.events {
+  padding: 10px;
+}
+
 
 .events-heading {
   font-family: "Press Start 2P", sans-serif;
