@@ -69,6 +69,29 @@ The first pass on each page raised issues on all html pages with regards to addi
 
 Additionally in the "about", "menu" and "events" sections it was flagged up that there was inappropriate use of line breaks after every list item and section of text. - These line breaks were removed and appropriate padding-bottom spacing was added to achieve the desired look.
 
+### Performance
+
+Performance testing was conducted through Chrome's developer tools utilising the Lighthouse tool.
+
+The desktop version of the website gave the following scores.
+* Performance = 83
+* Accessibility = 92
+* Best Practices = 100
+* SEO = 80
+* PWA = N/A
+
+The phone version of the website gave the following scores.
+* Performance = 92
+* Accessibility = 92
+* Best Practices = 100
+* SEO = 83
+* PWA = N/A
+
+### Testing Conclusion
+
+The performance testing results highlight the original design approach towards mobile devices first. 
+Although there are still some room for improvement, I am relatively happy given that this is my first independent attempt of this kind of website design.
+
 ## Deployment
 Deployment of this project to GitHub Pages was undertaken with the following steps:
 
