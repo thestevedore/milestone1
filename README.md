@@ -101,4 +101,48 @@ Further reading and troubleshooting on cloning a repository from GitHub [here.](
 
 ### Images
 
+All images sourced from [pixels.com](https://www.pexels.com/)
+
+All images have retained their original filenames to easily attribute the artists to their work.
+
+The contributing image artists are:
+* Camille Camila
+* Cottonbro Studio
+* Darline Alderson
+* David Bartus
+* Elli
+* Foodie Factor
+* Furkanfdemir
+* Gaby Tenda
+* Markus Winkler
+* Mart Production
+* Pixabay
+* Rachel Claire
+* Rene Strgar
+* Robin Stickel
+
 ### Code
+
+Scripts taken for Bootstrap enablement were found at its respective website:
+* [Bootstrap](https://getbootstrap.com/)
+
+Font Awesome enablement required an account set up prior to obtaining a kit to copy and paste into the code:
+
+* [Font Awesome](https://fontawesome.com/kits)
+
+Credit for the trademark symbol used goes to w3schools.com, with the relative page found [here.](https://www.w3schools.com/html/html_symbols.asp)
+
+The table used on the 'Tournaments' page was sourced from [bootstrap](https://getbootstrap.com/docs/5.3/content/tables/) and was later edited for some style and content changes.
+
+## Acknowledgements 
+
+* I would like to take this opportunity to thank a fellow studient, Nathan Fisher, for pointing me in the right direction to getting the required vscode extensions to make it all work as needed for comfortable code development.
+
+* I would also like to thank my mentor, Mitko Bachvarov for his advise at the concept stage of the project. Unfortunately this ended being his only input due to my losing so much time to work on the project through sickness (bronchitis) and work commitments.
+
+## Additional Notes
+* I was unsure just how much content to put into this project, as the marking criteria states that you cannot obtain credit for the same repeated elements in later projects and whilst I am sure that I will learn about additional content to add into later projects futher down the line, I also did not want to restrict myself in later projects.
+
+### Disclaimer
+
+The content of this project/website is for educational purposes only.
