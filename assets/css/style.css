@@ -220,6 +220,24 @@ section {
   padding-top: 25px;
 }
 
+.video {
+  padding-bottom: 10px;
+}
+
+.modal-content {
+  font-family: "Roboto", sans-serif;
+  color:darkgrey;
+  background: #23464b;
+}
+
+.modal-btn {
+  font-family: "Roboto", sans-serif;
+  color: darkgrey;
+  text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+  1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+  background: #23464b;
+}
+
 /*--Footer--*/
 
 #ending {
