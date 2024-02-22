@@ -189,6 +189,13 @@ section {
   padding-right: 6%;
 }
 
+/*--Tournament Suggestions--*/
+
+.suggestions {
+  padding-left: 4%;
+  padding-right: 4%;
+}
+
 /*--Customer Information--*/
 
 .hours {
@@ -219,6 +226,8 @@ section {
 .opening-times {
   padding-top: 25px;
 }
+
+/*--Modal video launcher--*/
 
 .video {
   padding-bottom: 10px;
