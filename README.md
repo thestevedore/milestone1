@@ -64,33 +64,32 @@ Regular pushes to GitHub were made once the above issues were resolved.
 In addition to HTML5 and CSS3, Bootstrap 5.3.2 was also utilised, along with some minor style elements added with the help of Font Awesome and Google Fonts.
 
 ## Testing
-Base code testing was conducted on the W3C validator.
+
+### HTML
+Base code testing was conducted on the W3.org validator.
 The first pass on each page raised issues on all html pages with regards to additional script closing tags prior to the closing body tags. - These tags were deleted.
 
 Additionally in the "about", "menu" and "events" sections it was flagged up that there was inappropriate use of line breaks after every list item and section of text. - These line breaks were removed and appropriate padding-bottom spacing was added to achieve the desired look.
+
+The second HTML pass results can be viewed [here.](<assets/testing/Showing results for https___thestevedore.github.io_milestone1_ - Nu Html Checker.html>)
+
+### CSS
+CSS testing was also conducted on the W3.org validator.
+
+The first and only CSS check resulted in no errors or warnings. The check results can be viewed [here.](<assets/testing/W3C CSS Validator results for style.css (CSS level 3 + SVG).html>)
 
 ### Performance
 
 Performance testing was conducted through Chrome's developer tools utilising the Lighthouse tool.
 
-The desktop version of the website gave the following scores.
-* Performance = 83
-* Accessibility = 92
-* Best Practices = 100
-* SEO = 80
-* PWA = N/A
-
-The phone version of the website gave the following scores.
-* Performance = 92
-* Accessibility = 92
-* Best Practices = 100
-* SEO = 83
-* PWA = N/A
+The full report can be seen [here.](assets/testing/thestevedore.github.io-20240222T115216.html)
 
 ### Testing Conclusion
 
 The performance testing results highlight the original design approach towards mobile devices first. 
 Although there are still some room for improvement, I am relatively happy given that this is my first independent attempt of this kind of website design.
+
+I can already see that I have a good base to work from in the future, I just need to work on the performance side of the site to create a more professional product.
 
 ## Deployment
 Deployment of this project to GitHub Pages was undertaken with the following steps:
@@ -144,6 +143,14 @@ The contributing image artists are:
 * Rene Strgar
 * Robin Stickel
 
+### Video
+
+All videos were sourced from [pixels.com](https://www.pexels.com/)
+
+All videos have retained their original filenames to easily attribute the artists to their work.
+
+The contributing videos artist was Deniz Bostanov.
+
 ### Code
 
 Scripts taken for Bootstrap enablement were found at its respective website:
@@ -156,6 +163,8 @@ Font Awesome enablement required an account set up prior to obtaining a kit to c
 Credit for the trademark symbol used goes to w3schools.com, with the relative page found [here.](https://www.w3schools.com/html/html_symbols.asp)
 
 The table used on the 'Tournaments' page was sourced from [bootstrap](https://getbootstrap.com/docs/5.3/content/tables/) and was later edited for some style and content changes.
+
+The initial code for the modal was sourced from [bootstrap](https://getbootstrap.com/docs/5.3/components/modal/) and was later edited for style and content changes.
 
 ## Acknowledgements 
 
