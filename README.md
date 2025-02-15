@@ -71,18 +71,18 @@ The first pass on each page raised issues on all html pages with regards to addi
 
 Additionally in the "about", "menu" and "events" sections it was flagged up that there was inappropriate use of line breaks after every list item and section of text. - These line breaks were removed and appropriate padding-bottom spacing was added to achieve the desired look.
 
-The second HTML pass results can be viewed [here.](assets\testing\html_check.jpg)
+The second HTML pass results can be viewed [here.](<assets\testing\html_check.jpg>)
 
 ### CSS
 CSS testing was also conducted on the W3.org validator.
 
-The first and only CSS check resulted in no errors or warnings. The check results can be viewed [here.](assets\testing\css_check.jpg)
+The first and only CSS check resulted in no errors or warnings. The check results can be viewed [here.](<assets\testing\css_check.jpg>)
 
 ### Performance
 
 Performance testing was conducted through Chrome's developer tools utilising the Lighthouse tool.
 
-The full report can be seen [here.](assets\testing\performance.jpg)
+The full report can be seen [here.](<assets\testing\performance.jpg>)
 
 ### Testing Conclusion
 
